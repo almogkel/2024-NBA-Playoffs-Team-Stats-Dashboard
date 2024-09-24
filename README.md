@@ -31,8 +31,11 @@ This project allowed me to apply my skills in:
   - **Excel** for initial data storage and preparation.
 
 ## How to Use
+1. Download the Tableau workbook (`NBA playoffs 2024.twbx`) from this repository.
+2. You can interact with the dashboard via [Tableau Public](https://public.tableau.com/views/NBAplayoffs2024/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+3. Interact with the dashboard by selecting teams, filtering stats, and viewing the charts.
 
-You can interact with the dashboard via [Tableau Public]([#](https://public.tableau.com/views/NBAplayoffs2024/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+If you don’t have Tableau Public installed, you can download it [here](https://public.tableau.com/en-us/s/download).
 
 Features include:
 - Selecting a team to view its specific stats.
