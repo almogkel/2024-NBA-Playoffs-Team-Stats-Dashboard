@@ -47,3 +47,6 @@ Features include:
 Through this project, I gained valuable experience in data visualization and sports analysis. I was able to translate raw data into an interactive and informative dashboard that highlights team and player performance during the 2024 NBA Playoffs. This project showcases my ability to work with large datasets, create dynamic visualizations, and derive insights from the data.
 
 As a recent graduate in Industrial Engineering and Management, specializing in Data Science, I am excited to apply these skills in a professional setting. I am eager to bring my analytical and creative problem-solving skills to an entry-level data analyst role in the sports industry.
+
+<img width="1915" height="1045" alt="image" src="https://github.com/user-attachments/assets/3b57afda-c442-496e-880b-216fca7789bd" />
+
