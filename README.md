@@ -4,6 +4,7 @@ This project visualizes key team and player statistics from the 2024 NBA Playoff
 - **Team Stats Per Game**: Points, rebounds, assists, and more.
 - **Top Players**: Performance distribution for the top players in selected stats(Points,Assists,Rebounds,steals etc).
 - **Shooting Efficiency**: FG% vs. FGA scatter plot for players.
+- **Defensive Efficiency**: STL vs. BLK scatter plot for players.
 - **Bench vs. Starters**: Comparison of selected stats scored by starters vs. the bench.
 
 The primary objective of this project was to analyze team and player performance in the 2024 NBA Playoffs using real-world data. The key focus was to visualize important metrics in a clear and interactive way, allowing for easy comparisons between teams and players.
